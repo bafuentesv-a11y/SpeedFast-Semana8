@@ -74,7 +74,7 @@ EN_REPARTO
     ↓
 ENTREGADO
 
-### Arquitectura del proyecto
+Arquitectura del proyecto
 
 src/
 ├── dao/
@@ -105,7 +105,7 @@ src/
 └── main/
     └── Main.java
 
-### Flujo de uso.
+Flujo de uso.
 
 Registrar Pedido
        ↓
